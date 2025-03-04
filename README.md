@@ -2,6 +2,8 @@
 
 A 3D tower defense game built with React Three Fiber, Three.js, and Zustand.
 
+![R3F Tower Defence](./r3f-td.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
