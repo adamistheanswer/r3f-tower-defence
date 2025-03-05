@@ -1,7 +1,7 @@
 {
   "name": "r3f-tower-defense",
   "version": "0.1.0",
-  "homepage": "https://adamistheanswer.github.io/r3f-tower-defense",
+  "homepage": "https://adamistheanswer.github.io/r3f-tower-defense/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
