@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/r3f-tower-defense/",
+  base: "/r3f-tower-defence/",
 });
